@@ -19,6 +19,8 @@
 然後再安裝requirement.txt(還不是要用指令XD)
 
 ⚠⚠⚠Pytorch、torchversion 要用GPU跑的話，套件要特別去下載
+如果不曉得怎麼做，可以去看我另一篇：
+https://github.com/huchi00057/Pytorch
 ====
 ![image](https://user-images.githubusercontent.com/46515944/175810603-3918ae61-68d1-4640-ac7b-ed7e0aabcf71.png)
 
